@@ -1,8 +1,5 @@
 -- by que1s 23.02.2026
-
--- =========================================================================
--- PREMIUM DASHBOARD UI LIBRARY CORE (UNCOMPRESSED & FLUENT SYNTAX)
--- =========================================================================
+-- yeah ai shit
 
 local Players = game:GetService("Players")
 local CoreGui = game:GetService("CoreGui")
@@ -24,7 +21,6 @@ local Library = {
 	Flags = {} 
 }
 
--- === ТЕМЫ (ДИНАМИЧЕСКИЕ ЦВЕТА) ===
 local Themes = {
 	Dark = {
 		Bg = Color3.fromRGB(15, 15, 18),
